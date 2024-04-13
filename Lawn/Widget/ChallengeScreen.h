@@ -57,6 +57,7 @@ public:
 
     /*inline*/ bool             IsScaryPotterLevel(GameMode theGameMode);
     /*inline*/ bool             IsIZombieLevel(GameMode theGameMode);
+    /*inline*/ bool             IsSurvivalPage(int thePage);
 };
 
 class ChallengeDefinition
